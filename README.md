@@ -13,3 +13,6 @@ Gmail Bombing Tool By Dark Hunter 141. Without Login .No spambox only inbox 📥
  python2 main
 
 ```
+
+
+⚠️ Warning anyone misuse it we are not responsible for this 💁
